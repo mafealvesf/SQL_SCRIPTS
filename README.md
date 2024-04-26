@@ -1,11 +1,11 @@
 # SQL_SCRIPTS
 
 
-|-----------------------------------------------------------------------------------------------------                                                        
-                                               DBEAVER                                             
- -----------------------------------------------------------------------------------------------------
-                                                   
 
+-----------------------------------------------------------------------------------------------------                                                        
+                                               DBEAVER                                             
+-----------------------------------------------------------------------------------------------------
+                                                   
 
 Manipular o DBeaver envolve várias tarefas, desde conectar-se a um banco de dados até executar consultas 
 SQL e visualizar resultados. Vamos detalhar algumas das funcionalidades principais e como você pode usá-las eficientemente:
